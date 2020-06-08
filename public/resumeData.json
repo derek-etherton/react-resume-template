@@ -2,12 +2,12 @@
   "main": {
     "name": "Derek Etherton",
     "occupation": "developer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "Lover of software design, go (圍棋), and mountains. Thoughtful & calm in all things, I'm always eager for a challenge",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "A solid foundation in software design, algorithms, data structures, and a variety of programming paradigms makes me a quick learner comfortable working with any modern technology. Over a year of working in Android helped me develop some strong Java fundamentals, which I've further improved working with Spring at RBC. I've spent thousands of hours on the web basics (ES6, HTML5, SCSS), received training in Angular 7 and have also built sites using React & Node (like this one). In all pursuits I'm guided by SOLID principles, and keep a design patterns & code smells cheatsheet handy. Yes, I can build \"RESTful APIs\" (it'd be a struggle not to).",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "derek.etherton@hotmail.com",
-    "phone": "555-555-5555",
+    "phone": "416-670-1905",
     "address": {
       "street": "3110-29 Singer Ct",
       "city": "Toronto",
