@@ -2,8 +2,8 @@
   "main": {
     "name": "Derek Etherton",
     "occupation": "developer",
-    "description": "Lover of software design, go (圍棋), and mountains. Thoughtful & calm in all things, I'm always eager for a challenge",
-    "image": "profilepic.jpg",
+    "description": "Lately, I've been doing web development at RBC. My passions include the game of go (圍棋), and elegant software design",
+    "image": "headshot_old.jpg",
     "bio": "A solid foundation in software design, algorithms, data structures, and a variety of programming paradigms makes me a quick learner comfortable working with any modern technology. Over a year of working in Android helped me develop some strong Java fundamentals, which I've further improved working with Spring at RBC. I've spent thousands of hours on the web basics (ES6, HTML5, SCSS), received training in Angular 7 and have also built sites using React & Node (like this one). In all pursuits I'm guided by SOLID principles, and keep a design patterns & code smells cheatsheet handy. Yes, I can build \"RESTful APIs\", and CI/CD is something I can't live without.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "derek.etherton@hotmail.com",
@@ -33,30 +33,36 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of Toronto Scarborough",
+        "degree": "Honours B.Sc Computer Science (Specialist)",
+        "graduated": "June 2018",
+        "description": "On top of the solid fundamentals that U of T delivers in Computer Science, I was in the first cohort of 10-15 students to enroll in UTSC's Entrepreneurship Specialist stream. With the same stringent requirements of Software Engineering, we had the added benefit of taking a hands-on startup course focused on prototyping a new product in an Agile environment with weekly pitches and demos."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "RBC",
+        "title": "Developer",
+        "years": "January 2019 - Present",
+        "description": "Refactored the design of a robust BI reporting tool built in Angular 7 and Spring, focusing on horizontally reusable code. Successfully separated a tightly-coupled back-end, front-end, and configuration so entirely new dashboards could easily be created with just one JSON configuration file. Also worked with ElasticSearch on the backend. Currently building on this along with a variety of responsive web applications and automated reporting tools."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Freelance Contract",
+        "title": "Android Developer",
+        "years": "October 2016 - June 2018",
+        "description": "Created an Android kiosk & app for the tourism industry which displays rich 3D map content based on map data pulled from AWS following MVP architecture. Applied Material Design principles with fluid, realistic movement."
+      },
+      {
+        "company": "Parks Canada",
+        "title": "Android Developer",
+        "years": "May 2016 - December 2016",
+        "description": "Created ‘The Rouge’, an app for Canada’s first national urban park, leveraging location services. Features dynamic push notifications, analytics using Google Firebase, and serious performance after months of Espresso automated testing. 1000+ downloads."
+      },
+      {
+        "company": "Centre for Addiction and Mental Health",
+        "title": "Android Developer",
+        "years": "September 2015 - December 2015",
+        "description": "Created a location-aware scheduling application with researchers to aid in the treatment of schizophrenia."
       }
     ],
     "skills": [
@@ -95,13 +101,13 @@
       {
         "title": "McGill Personal Finance Essentials",
         "category": "A financial literacy course I lead development for at RBC",
-        "image": "canadian-wanderlust.jpg",
+        "image": "mpfe.jpg",
         "url": "https://www.mcgillpersonalfinance.com"
       },
       {
         "title": "The Rouge",
         "category": "Rouge National Urban Park's official app, developed w/ 3 other students at Parks Canada",
-        "image": "fury-fighting-gear.jpg",
+        "image": "therouge1.jpg",
         "url": "https://play.google.com/store/apps/details?id=com.rouge.Rouge_App&hl=en_CA"
       }
     ]
