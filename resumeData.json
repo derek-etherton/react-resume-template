@@ -30,13 +30,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Through my education I have exposure to a swathe of programming languages: C, Haskell, and a lot of Python. The below skills include only those I've used in a professional capacity.",
     "education": [
       {
         "school": "University of Toronto Scarborough",
         "degree": "Honours B.Sc Computer Science (Specialist)",
         "graduated": "June 2018",
-        "description": "On top of the solid fundamentals that U of T delivers in Computer Science, I was in the first cohort of 10-15 students to enroll in UTSC's Entrepreneurship Specialist stream. With the same stringent requirements of Software Engineering, we had the added benefit of taking a hands-on startup course focused on prototyping a new product in an Agile environment with weekly pitches and demos. Learned more about algorithm design & analysis, programming language fundamentals, and software design than can be healthy."
+        "description": "On top of the solid fundamentals that U of T delivers in Computer Science, I was in the first cohort of 10-15 students to enroll in UTSC's Entrepreneurship Specialist stream. With the same stringent requirements of Software Engineering, we had the added benefit of taking a hands-on startup course focused on prototyping a new product in an Agile environment with weekly pitches and demos. Learned more about algorithm design & analysis, programming language fundamentals, and software design than is healthy."
       }
     ],
     "work": [
@@ -44,13 +44,13 @@
         "company": "RBC",
         "title": "Developer",
         "years": "January 2019 - Present",
-        "description": "As a member of the small Marketing & Citizenship IT team I lead development on an award-winning Financial Literacy course which far-exceeded business expectations with over 20k registrants in the first month and still growing past 100k to date. The course was developed using vanilla web technology (+Bootstrap), and parts were built on top of a vendor Learning Management System. I displayed outstanding dedication and acquired new leadership qualities coordinating my team across disciplines to ship this product on time, while also maintaining a warm relationship with our business partners.<br>"
+        "description": "As a member of the small Marketing & Citizenship IT team I lead development on an award-winning Financial Literacy course which far-exceeded business expectations with over 100k registrants in its first year. The course was developed using vanilla web technology (+Bootstrap), and parts were built on top of a vendor Learning Management System. I displayed outstanding dedication and ability to lead while coordinating dev efforts across disciplines to ship this product on time. At RBC, I've gotten comfortable following the SDLC and creating technical documents, while also helping my team to refine their Agile practices. Across our many projects, I helped re-design and develop an Angular/ElasticSearch reporting dashboard, built out essential report automation using Spring Batch, and worked frequently with Pivotal Cloud Foundry (PCF) and Enterprise Jenkins."
       },
       {
         "company": "Freelance Contract",
         "title": "Android Developer",
         "years": "October 2016 - June 2018",
-        "description": "Created an Android kiosk & app for the tourism industry which displays rich 3D map content based on map data pulled from AWS following MVP architecture. Applied Material Design principles with fluid, realistic movement."
+        "description": "Took over a previous contractor's work on an Android kiosk & app for the tourism industry which displays rich 3D map content based on map data pulled from AWS. Applied Material Design principles with fluid, realistic movement."
       },
       {
         "company": "Parks Canada",
@@ -67,32 +67,44 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
+        "name": "ES6 (Javascript)",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Node JS",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "Java Spring",
+        "level": "70%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": "Android (Native)",
+        "level": "60%"
+      },
+      {
+        "name": "ElasticSearch",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "85%"
+      },
+      {
+        "name": "SCSS",
+        "level": "70%"
       }
     ]
   },
@@ -109,6 +121,12 @@
         "category": "Rouge National Urban Park's official app, developed w/ 3 other students at Parks Canada",
         "image": "therouge1.jpg",
         "url": "https://play.google.com/store/apps/details?id=com.rouge.Rouge_App&hl=en_CA"
+      },
+      {
+        "title": "Boonmaps",
+        "category": "3D interactive maps for outdoor adventurers, I built out most of this Android app on contract over a two-year period. The app supports large screens for use in tourist centers.",
+        "image": "mtns.jpg",
+        "url": "https://www.boonmaps.com/index.html"
       }
     ]
   },
