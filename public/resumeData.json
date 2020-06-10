@@ -2,9 +2,9 @@
   "main": {
     "name": "Derek Etherton",
     "occupation": "developer",
-    "description": "Lately, I've been doing web development at RBC. My passions include the game of go (圍棋), and elegant software design",
-    "image": "headshot_old.jpg",
-    "bio": "A solid foundation in software design, algorithms, data structures, and a variety of programming paradigms makes me a quick learner comfortable working with any modern technology. Over a year of working in Android helped me develop some strong Java fundamentals, which I've further improved working with Spring at RBC. I've spent thousands of hours on the web basics (ES6, HTML5, SCSS), received training in Angular 7 and have also built sites using React & Node (like this one). In all pursuits I'm guided by SOLID principles, and keep a design patterns & code smells cheatsheet handy. Yes, I can build \"RESTful APIs\", and CI/CD is something I can't live without.",
+    "description": "Developer @ RBC. Go player (圍棋). Voracious learner, always eager for a new challenge.",
+    "image": "headshot.jpg",
+    "bio": "I'm an ambitious developer with a strong sense of accountability and a knack for killer demos. A solid foundation in software design, algorithms, data structures, and a variety of programming paradigms makes me a quick learner comfortable working with most modern technology. Two years of working in Android helped me develop strong Java & object-oriented fundamentals, which I've further improved working with Spring at RBC. I've spent thousands of hours on the web basics (ES6, HTML5, SCSS), received training in Angular 7 and have also built sites using React & Node. In all pursuits I'm guided by SOLID principles, and keep a design patterns & code smells cheatsheet handy. Yes, I can build \"RESTful APIs\", and CI/CD is something I can't live without.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "derek.etherton@hotmail.com",
     "phone": "416-670-1905",
@@ -15,7 +15,7 @@
       "zip": "M2K 0B3"
     },
     "website": "http://www.etherton.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "http://www.etherton.com",
     "social": [
       {
         "name": "linkedin",
@@ -36,7 +36,7 @@
         "school": "University of Toronto Scarborough",
         "degree": "Honours B.Sc Computer Science (Specialist)",
         "graduated": "June 2018",
-        "description": "On top of the solid fundamentals that U of T delivers in Computer Science, I was in the first cohort of 10-15 students to enroll in UTSC's Entrepreneurship Specialist stream. With the same stringent requirements of Software Engineering, we had the added benefit of taking a hands-on startup course focused on prototyping a new product in an Agile environment with weekly pitches and demos."
+        "description": "On top of the solid fundamentals that U of T delivers in Computer Science, I was in the first cohort of 10-15 students to enroll in UTSC's Entrepreneurship Specialist stream. With the same stringent requirements of Software Engineering, we had the added benefit of taking a hands-on startup course focused on prototyping a new product in an Agile environment with weekly pitches and demos. Learned more about algorithm design & analysis, programming language fundamentals, and software design than can be healthy."
       }
     ],
     "work": [
@@ -44,7 +44,7 @@
         "company": "RBC",
         "title": "Developer",
         "years": "January 2019 - Present",
-        "description": "Refactored the design of a robust BI reporting tool built in Angular 7 and Spring, focusing on horizontally reusable code. Successfully separated a tightly-coupled back-end, front-end, and configuration so entirely new dashboards could easily be created with just one JSON configuration file. Also worked with ElasticSearch on the backend. Currently building on this along with a variety of responsive web applications and automated reporting tools."
+        "description": "As a member of the small Marketing & Citizenship IT team I lead development on an award-winning Financial Literacy course which far-exceeded business expectations with over 20k registrants in the first month and still growing past 100k to date. The course was developed using vanilla web technology (+Bootstrap), and parts were built on top of a vendor Learning Management System. I displayed outstanding dedication and acquired new leadership qualities coordinating my team across disciplines to ship this product on time, while also maintaining a warm relationship with our business partners.<br>"
       },
       {
         "company": "Freelance Contract",
